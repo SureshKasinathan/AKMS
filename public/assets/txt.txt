@@ -1,0 +1,3 @@
+Email = suresh@lendstacks.com
+username = sureshkasinathan
+password = lendstacks
